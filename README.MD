@@ -1,6 +1,8 @@
-## Madly Artsy
+# Madly Artsy
 
-![logo](https://raw.githubusercontent.com/SebastianRaiquenParisi/proyectoIntegradorEquipo12/main/website/public/images/design/logo-1.jpeg)
++ ## Logotipo
+
+<img src="https://raw.githubusercontent.com/SebastianRaiquenParisi/proyectoIntegradorEquipo12/main/website/public/images/design/logo-1.jpeg" width="250" height="auto">
 
 -------------------
 
